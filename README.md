@@ -2,7 +2,7 @@
 | ----------- |
 ## Chris Jericho Alejandro ##
 1. **A Space Odyssey**
-2.**Citizen Kane**
+2. **Citizen Kane**
 3. **La Dolce Vita**
 4. **In the Mood for Love**
 5. **There Will Be Blood**
