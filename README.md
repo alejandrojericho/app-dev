@@ -1,13 +1,13 @@
 :film_strip:  My Favorite Series and Movies  :film_strip:
 | ----------- |
 ## Chris Jericho Alejandro ##
-**A Space Odyssey**
-**Citizen Kane**
-**La Dolce Vita**
-**In the Mood for Love**
-**There Will Be Blood**
-**Singin' in the Rain**
-**GoodFellas**
-**North by Northwest**
-**In the Mood for Love**
-**The Office**
+1. **A Space Odyssey**
+2.**Citizen Kane**
+3. **La Dolce Vita**
+4. **In the Mood for Love**
+5. **There Will Be Blood**
+6. **Singin' in the Rain**
+7. **GoodFellas**
+8. **North by Northwest**
+9. **In the Mood for Love**
+10. **The Office**
