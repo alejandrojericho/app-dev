@@ -1,4 +1,4 @@
-# My Favorite Series and Movies # 
+ :joy: # My Favorite Series and Movies # :joy:
 ## Chris Jericho Alejandro ##
 **A Space Odyssey**
 **Citizen Kane**
