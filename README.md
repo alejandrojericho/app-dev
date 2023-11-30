@@ -1,8 +1,9 @@
 :film_strip: # My Favorite Series and Movies # :film_strip:
+| ----------- |
 ## Chris Jericho Alejandro ##
-:**A Space Odyssey**
-:**Citizen Kane**
-:**La Dolce Vita**
+**A Space Odyssey**
+**Citizen Kane**
+**La Dolce Vita**
 **In the Mood for Love**
 **There Will Be Blood**
 **Singin' in the Rain**
