@@ -1,4 +1,5 @@
-:film_strip: # My Favorite Series and Movies # :film_strip:
+:film_strip:  My Favorite Series and Movies  :film_strip:
+| ----------- |
 ## Chris Jericho Alejandro ##
 1. **A Space Odyssey**
 2. **Citizen Kane**
