@@ -1,4 +1,4 @@
-:film_strip: # My Favorite Series and Movies # :film_strip:
+:film_strip:  My Favorite Series and Movies  :film_strip:
 | ----------- |
 ## Chris Jericho Alejandro ##
 **A Space Odyssey**
